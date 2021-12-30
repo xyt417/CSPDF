@@ -1,4 +1,6 @@
-## 最新 1500 多本计算机电子书免费下载
+# 最新 1500 多本计算机电子书免费下载
+
+<a href="https://www.souyunku.com/?p=397" target="_blank"  ><img src="https://www.souyunku.com/wp-content/uploads/idea/zhengban.png" ></a>
 
 ## 整理那么辛苦，求个 Star，Fork 谢谢
 
