@@ -25,8 +25,8 @@
 | [软件测试](https://github.com/itdevbooks/pdf#软件测试)   |  [重构优化](https://github.com/itdevbooks/pdf#重构优化)  |[第三版-面试题](https://mp.weixin.qq.com/s/YM7ul3jwM2rXL5iOM6LeJQ)   | 每天都有更新  | |   |
 
 
-## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://github.com/souyunku/DevBooks/blob/master/docs/index.md)
-## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://github.com/souyunku/DevBooks/blob/master/docs/index.md)
+## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
+## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
 
 <a href="https://www.souyunku.com/?p=397" target="_blank"  ><img src="https://www.souyunku.com/wp-content/uploads/idea/zhengban.png" ></a>
 
@@ -1789,6 +1789,13 @@ Java虚拟机并发编程.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下�
 江南白衣优化.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1jGcfNaiT1k1V8tX6uabb8g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：mvpa
 
 重构-改善既有代码的设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1UGnVQwvguIMuFMf6yy8l4g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bssy  
+
+## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
+## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
+## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
+## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
+## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
+## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
 
 ## 免责声明
 
