@@ -1,6 +1,5 @@
 # 最新 1500 多本计算机电子书免费下载
 
-<a href="https://www.souyunku.com/?p=397" target="_blank"  ><img src="https://www.souyunku.com/wp-content/uploads/idea/zhengban.png" ></a>
 
 ## 整理那么辛苦，求个 Star，Fork 谢谢
 
@@ -27,8 +26,6 @@
 
 ## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
 ## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://mp.weixin.qq.com/s/TMBjoux5tpcqmbEFR-pDrA)
-
-<a href="https://www.souyunku.com/?p=397" target="_blank"  ><img src="https://www.souyunku.com/wp-content/uploads/idea/zhengban.png" ></a>
 
 
 ## C 语言
